@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  468G   26G  419G   6% /
+
+Directory size:
+120K	/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic
+
+File count:
+3

@@ -1,0 +1,4 @@
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/disk_snapshot.sh: line 1: import: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/disk_snapshot.sh: line 2: import: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/disk_snapshot.sh: line 5: syntax error near unexpected token `('
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/disk_snapshot.sh: line 5: `def check_resources():'

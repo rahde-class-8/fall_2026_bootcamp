@@ -1,0 +1,19 @@
+NETWORK CHECK
+=============
+Target host: localhost
+
+Ping status: OK
+
+PING localhost (127.0.0.1) 56(84) bytes of data.
+64 bytes from localhost (127.0.0.1): icmp_seq=1 ttl=64 time=0.047 ms
+64 bytes from localhost (127.0.0.1): icmp_seq=2 ttl=64 time=0.071 ms
+
+--- localhost ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1029ms
+rtt min/avg/max/mdev = 0.047/0.059/0.071/0.012 ms
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 21: 3.: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 23: created: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 24: 1.: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 25: 2.: command not found
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 27: syntax error near unexpected token `in'
+/home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/diagnostics/shell/network_check.sh: line 27: `in the main folder diagnostics'

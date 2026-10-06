@@ -1,0 +1,7 @@
+LOG SCAN
+========
+Log file: /home/rahde/Documents/TheoWAF/fall_2026_bootcamp/lab-5/live-server-diagnostic/logs/server.log
+Warnings: 1
+Errors: 2
+Critical events: 1
+Log status: CRITICAL
